@@ -1,0 +1,4346 @@
+[
+  {
+    "id": "aqua_water",
+    "name": "Aqua (Water)",
+    "description": "Çözücü; formülün temel taşı.",
+    "riskLevel": "Düşük",
+    "functions": "Çözücü",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "glycerin",
+    "name": "Glycerin",
+    "description": "Nem tutucu (humektan); cildi nemlendirir.",
+    "riskLevel": "Düşük",
+    "functions": "Nemlendirici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "description": "Bariyer desteği; leke/kızarıklık görünümüne yardımcı olabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_hyaluronate",
+    "name": "Sodium Hyaluronate",
+    "description": "Hyaluronik asit tuzu; nem bağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Nemlendirici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "panthenol",
+    "name": "Panthenol",
+    "description": "Yatıştırıcı; bariyer desteği.",
+    "riskLevel": "Düşük",
+    "functions": "Yatıştırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "allantoin",
+    "name": "Allantoin",
+    "description": "Tahrişi azaltmaya yardımcı yatıştırıcı.",
+    "riskLevel": "Düşük",
+    "functions": "Yatıştırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ceramide_np",
+    "name": "Ceramide NP",
+    "description": "Bariyer lipidi; seramid desteği.",
+    "riskLevel": "Düşük",
+    "functions": "Bariyer",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "cholesterol",
+    "name": "Cholesterol",
+    "description": "Bariyer lipidi; seramidlerle iyi çalışır.",
+    "riskLevel": "Düşük",
+    "functions": "Bariyer",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylic_capric_triglyceride",
+    "name": "Caprylic/Capric Triglyceride",
+    "description": "Hafif emolyan; yumuşak his verir.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "squalane",
+    "name": "Squalane",
+    "description": "Hafif emolyan; bariyeri destekler.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dimethicone",
+    "name": "Dimethicone",
+    "description": "Silikon; kayganlık ve bariyer hissi.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok yağlı",
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "cetearyl_alcohol",
+    "name": "Cetearyl Alcohol",
+    "description": "Yağ alkolü; emolyan/kalınlaştırıcı.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "stearic_acid",
+    "name": "Stearic Acid",
+    "description": "Yağ asidi; emülgatör/kalınlaştırıcı.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "carbomer",
+    "name": "Carbomer",
+    "description": "Jelleştirici/kalınlaştırıcı.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "xanthan_gum",
+    "name": "Xanthan Gum",
+    "description": "Kıvam verici.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_edta",
+    "name": "Disodium EDTA",
+    "description": "Şelatlayıcı; stabilite sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Şelatlayıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "phenoxyethanol",
+    "name": "Phenoxyethanol",
+    "description": "Koruyucu; yüksek oranlarda hassasiyet yapabilir.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexylglycerin",
+    "name": "Ethylhexylglycerin",
+    "description": "Koruyucu destekleyici; nemlendirici yan etki.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_benzoate",
+    "name": "Sodium Benzoate",
+    "description": "Koruyucu.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "potassium_sorbate",
+    "name": "Potassium Sorbate",
+    "description": "Koruyucu.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "parfum_fragrance",
+    "name": "Parfum (Fragrance)",
+    "description": "Koku verici; hassas ciltte iritasyon yapabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Koku",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "alcohol_denat",
+    "name": "Alcohol Denat.",
+    "description": "Uçucu çözücü; kuruluk/tahriş yapabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Çözücü",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "salicylic_acid",
+    "name": "Salicylic Acid",
+    "description": "BHA; gözenek içini temizlemeye yardımcı.",
+    "riskLevel": "Orta",
+    "functions": "Eksfolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok kuru",
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "lactic_acid",
+    "name": "Lactic Acid",
+    "description": "AHA; nazik eksfolyan, nemlendirici etkisi olabilir.",
+    "riskLevel": "Orta",
+    "functions": "Eksfolyan",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "glycolic_acid",
+    "name": "Glycolic Acid",
+    "description": "AHA; güçlü eksfolyan, tahriş yapabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Eksfolyan",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "retinol",
+    "name": "Retinol",
+    "description": "Anti-aging aktif; iritasyon yapabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "azelaic_acid",
+    "name": "Azelaic Acid",
+    "description": "Akne/kızarıklık görünümüne yardımcı olabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "zinc_oxide",
+    "name": "Zinc Oxide",
+    "description": "Fiziksel UV filtresi; yatıştırıcı olabilir.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "titanium_dioxide",
+    "name": "Titanium Dioxide",
+    "description": "Fiziksel UV filtresi.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octocrylene",
+    "name": "Octocrylene",
+    "description": "Kimyasal UV filtresi; hassasiyet yapabilir.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "avobenzone",
+    "name": "Avobenzone",
+    "description": "UVA filtresi; stabilizasyon gerekir.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_laureth_sulfate",
+    "name": "Sodium Laureth Sulfate",
+    "description": "Yüzey aktif; bazı ciltlerde kurutabilir.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok kuru",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauryl_sulfate",
+    "name": "Sodium Lauryl Sulfate",
+    "description": "Güçlü yüzey aktif; tahriş yapabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Temizleyici",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "cocamidopropyl_betaine",
+    "name": "Cocamidopropyl Betaine",
+    "description": "Yüzey aktif; nadiren alerji yapabilir.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "kaolin",
+    "name": "Kaolin",
+    "description": "Kil; yağı absorbe eder.",
+    "riskLevel": "Düşük",
+    "functions": "Emici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "charcoal_powder",
+    "name": "Charcoal Powder",
+    "description": "Absorban; kurutabilir.",
+    "riskLevel": "Orta",
+    "functions": "Emici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "isopropyl_myristate",
+    "name": "Isopropyl Myristate",
+    "description": "Yumuşatıcı; komedojenik olabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Emolyan",
+    "comedogenicRating": 5,
+    "incompatibleSkinTypes": [
+      "Yağlı",
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "cocoa_butter",
+    "name": "Cocoa Butter",
+    "description": "Yoğun emolyan; komedojenik olabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Yağlı",
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "shea_butter",
+    "name": "Shea Butter",
+    "description": "Besleyici; bazı akneli ciltte ağır olabilir.",
+    "riskLevel": "Orta",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "mineral_oil",
+    "name": "Mineral Oil",
+    "description": "Oklüzif/emolyan; bazı ciltlerde ağır gelebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok yağlı",
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "petrolatum",
+    "name": "Petrolatum",
+    "description": "Oklüzif; çok kuru cildi korur.",
+    "riskLevel": "Düşük",
+    "functions": "Oklüzif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "talc",
+    "name": "Talc",
+    "description": "Dolgu; bazı ciltlerde gözenek tıkayabilir.",
+    "riskLevel": "Orta",
+    "functions": "Dolgu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "mica",
+    "name": "Mica",
+    "description": "Işıltı verici mineral.",
+    "riskLevel": "Düşük",
+    "functions": "Pigment",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "iron_oxides",
+    "name": "Iron Oxides",
+    "description": "Renk pigmentleri.",
+    "riskLevel": "Düşük",
+    "functions": "Pigment",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "camellia_sinensis_leaf_extract",
+    "name": "Camellia Sinensis Leaf Extract",
+    "description": "Yeşil çay özü; antioksidan.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "centella_asiatica_extract",
+    "name": "Centella Asiatica Extract",
+    "description": "Cica; yatıştırıcı bitki özü.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "aloe_barbadensis_leaf_juice",
+    "name": "Aloe Barbadensis Leaf Juice",
+    "description": "Aloe; yatıştırıcı olabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "lavandula_angustifolia_oil",
+    "name": "Lavandula Angustifolia Oil",
+    "description": "Lavanta yağı; koku/iritasyon riski.",
+    "riskLevel": "Yüksek",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "melaleuca_alternifolia_leaf_oil",
+    "name": "Melaleuca Alternifolia Leaf Oil",
+    "description": "Tea tree; antimikrobiyal, iritasyon yapabilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "chamomilla_recutita_flower_extract",
+    "name": "Chamomilla Recutita Flower Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_ferment",
+    "name": "Rosa Damascena Flower Water (Ferment)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "butylene_glycol_usp",
+    "name": "Butylene Glycol (USP)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "decyl_glucoside_ferment",
+    "name": "Decyl Glucoside (Ferment)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate_usp",
+    "name": "Disodium Laureth Sulfosuccinate (USP)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_leaf",
+    "name": "Octisalate (Leaf)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate",
+    "name": "Homosalate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_polymer",
+    "name": "Homosalate (Polymer)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "madecassoside",
+    "name": "Madecassoside",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas",
+      "Kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate_polymer",
+    "name": "Sodium Cocoyl Isethionate (Polymer)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Yüksek",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_caprylate_caprate_usp",
+    "name": "Coco-Caprylate/Caprate (USP)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "neopentyl_glycol_diheptanoate_usp",
+    "name": "Neopentyl Glycol Diheptanoate (USP)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "kojic_acid_root",
+    "name": "Kojic Acid (Root)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylhydroxamic_acid_nf",
+    "name": "Caprylhydroxamic Acid (NF)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_methyl_isethionate_usp",
+    "name": "Sodium Lauroyl Methyl Isethionate (USP)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_ferment_2",
+    "name": "Rosa Damascena Flower Water (Ferment)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_methoxycinnamate_usp",
+    "name": "Ethylhexyl Methoxycinnamate (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok hassas",
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "pentylene_glycol_polymer",
+    "name": "Pentylene Glycol (Polymer)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylhydroxamic_acid_root",
+    "name": "Caprylhydroxamic Acid (Root)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_ferment",
+    "name": "Hydroxypropyl Methylcellulose (Ferment)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_leaf",
+    "name": "Hamamelis Virginiana Leaf Water (Leaf)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate",
+    "name": "Disodium Laureth Sulfosuccinate",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s_polymer",
+    "name": "Tinosorb S (Polymer)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "madecassoside_nf",
+    "name": "Madecassoside (NF)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_nf",
+    "name": "Hamamelis Virginiana Leaf Water (NF)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ascorbic_acid_nf",
+    "name": "Ascorbic Acid (NF)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_ferment",
+    "name": "Homosalate (Ferment)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_sarcosinate",
+    "name": "Sodium Lauroyl Sarcosinate",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_usp",
+    "name": "Homosalate (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "butylene_glycol_root",
+    "name": "Butylene Glycol (Root)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m",
+    "name": "Tinosorb M",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_glucoside_nf",
+    "name": "Coco-Glucoside (NF)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_methyl_isethionate_usp_2",
+    "name": "Sodium Lauroyl Methyl Isethionate (USP)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_ferment",
+    "name": "Benzyl Alcohol (Ferment)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_sarcosinate_usp",
+    "name": "Sodium Lauroyl Sarcosinate (USP)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "pentylene_glycol",
+    "name": "Pentylene Glycol",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_2",
+    "name": "Homosalate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "cellulose_gum_polymer",
+    "name": "Cellulose Gum (Polymer)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_leaf",
+    "name": "Sodium Polyacrylate (Leaf)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_caprylate_caprate_leaf",
+    "name": "Coco-Caprylate/Caprate (Leaf)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "pha_polyhydroxy_acid",
+    "name": "PHA (Polyhydroxy Acid)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylyl_glycol_leaf",
+    "name": "Caprylyl Glycol (Leaf)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_methoxycinnamate_usp_2",
+    "name": "Ethylhexyl Methoxycinnamate (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate",
+    "name": "Sodium Polyacrylate",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxyethylcellulose_root",
+    "name": "Hydroxyethylcellulose (Root)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_2",
+    "name": "Tinosorb M",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_methoxycinnamate",
+    "name": "Ethylhexyl Methoxycinnamate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok hassas",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "pha_polyhydroxy_acid_usp",
+    "name": "PHA (Polyhydroxy Acid) (USP)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ascorbic_acid_leaf",
+    "name": "Ascorbic Acid (Leaf)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s_nf",
+    "name": "Tinosorb S (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_methyl_isethionate_root",
+    "name": "Sodium Lauroyl Methyl Isethionate (Root)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydrogenated_polyisobutene_ferment",
+    "name": "Hydrogenated Polyisobutene (Ferment)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chlorphenesin",
+    "name": "Chlorphenesin",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxyethylcellulose_ferment",
+    "name": "Hydroxyethylcellulose (Ferment)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxyethylcellulose_polymer",
+    "name": "Hydroxyethylcellulose (Polymer)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_leaf_2",
+    "name": "Octisalate (Leaf)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_polymer",
+    "name": "Guar Hydroxypropyltrimonium Chloride (Polymer)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "c12_15_alkyl_benzoate_polymer",
+    "name": "C12-15 Alkyl Benzoate (Polymer)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dehydroacetic_acid_usp",
+    "name": "Dehydroacetic Acid (USP)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_nf",
+    "name": "Rosa Damascena Flower Water (NF)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylyl_glycol_root",
+    "name": "Caprylyl Glycol (Root)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "decyl_glucoside",
+    "name": "Decyl Glucoside",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "pentylene_glycol_extract",
+    "name": "Pentylene Glycol (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "madecassoside_nf_2",
+    "name": "Madecassoside (NF)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water",
+    "name": "Hamamelis Virginiana Leaf Water",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "propylene_glycol_nf",
+    "name": "Propylene Glycol (NF)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dicaprylyl_carbonate_ferment",
+    "name": "Dicaprylyl Carbonate (Ferment)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_usp",
+    "name": "Benzoic Acid (USP)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_root",
+    "name": "Benzoic Acid (Root)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "butylene_glycol_leaf",
+    "name": "Butylene Glycol (Leaf)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylyl_glycol_extract",
+    "name": "Caprylyl Glycol (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract",
+    "name": "Rosmarinus Officinalis Leaf Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "butylene_glycol",
+    "name": "Butylene Glycol",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_polymer_2",
+    "name": "Homosalate (Polymer)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_methoxycinnamate_extract",
+    "name": "Ethylhexyl Methoxycinnamate (Extract)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "isohexadecane_ferment",
+    "name": "Isohexadecane (Ferment)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "beta_glucan",
+    "name": "Beta-Glucan",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_leaf_3",
+    "name": "Octisalate (Leaf)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_usp",
+    "name": "Benzyl Alcohol (USP)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "c12_15_alkyl_benzoate",
+    "name": "C12-15 Alkyl Benzoate",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_root",
+    "name": "Hydroxypropyl Methylcellulose (Root)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_usp",
+    "name": "Octisalate (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dehydroacetic_acid",
+    "name": "Dehydroacetic Acid",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas",
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_extract",
+    "name": "Hamamelis Virginiana Leaf Water (Extract)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate",
+    "name": "Sodium Cocoyl Isethionate",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract_leaf",
+    "name": "Rosmarinus Officinalis Leaf Extract (Leaf)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "chlorphenesin_leaf",
+    "name": "Chlorphenesin (Leaf)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_methyl_isethionate_usp_3",
+    "name": "Sodium Lauroyl Methyl Isethionate (USP)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_extract",
+    "name": "Benzoic Acid (Extract)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate_leaf",
+    "name": "Sodium Cocoyl Isethionate (Leaf)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_glucoside_usp",
+    "name": "Coco-Glucoside (USP)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_polymer_2",
+    "name": "Guar Hydroxypropyltrimonium Chloride (Polymer)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "decyl_glucoside_nf",
+    "name": "Decyl Glucoside (NF)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_sarcosinate_extract",
+    "name": "Sodium Lauroyl Sarcosinate (Extract)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate",
+    "name": "Octisalate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate_2",
+    "name": "Sodium Cocoyl Isethionate",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Yüksek",
+    "functions": "Temizleyici",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_2",
+    "name": "Octisalate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "beta_glucan_2",
+    "name": "Beta-Glucan",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_glucoside_leaf",
+    "name": "Coco-Glucoside (Leaf)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "triethylhexanoin",
+    "name": "Triethylhexanoin",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_ferment_2",
+    "name": "Hydroxypropyl Methylcellulose (Ferment)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_glucoside",
+    "name": "Coco-Glucoside",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_sarcosinate_extract_2",
+    "name": "Sodium Lauroyl Sarcosinate (Extract)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Yüksek",
+    "functions": "Temizleyici",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok hassas",
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_root",
+    "name": "Tinosorb M (Root)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok kuru",
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylhydroxamic_acid_nf_2",
+    "name": "Caprylhydroxamic Acid (NF)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol",
+    "name": "Benzyl Alcohol",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "propylene_glycol",
+    "name": "Propylene Glycol",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "calendula_officinalis_flower_extract_usp",
+    "name": "Calendula Officinalis Flower Extract (USP)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate_leaf",
+    "name": "Disodium Laureth Sulfosuccinate (Leaf)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "copper_pca_polymer",
+    "name": "Copper PCA (Polymer)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ascorbic_acid_extract",
+    "name": "Ascorbic Acid (Extract)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "gluconolactone_ferment",
+    "name": "Gluconolactone (Ferment)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_glucoside_root",
+    "name": "Coco-Glucoside (Root)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "c12_15_alkyl_benzoate_extract",
+    "name": "C12-15 Alkyl Benzoate (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s",
+    "name": "Tinosorb S",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [
+      "Çok yağlı",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "beta_glucan_polymer",
+    "name": "Beta-Glucan (Polymer)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_2",
+    "name": "Sodium Polyacrylate",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "arbutin_usp",
+    "name": "Arbutin (USP)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_nf",
+    "name": "Benzyl Alcohol (NF)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok yağlı",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylhydroxamic_acid",
+    "name": "Caprylhydroxamic Acid",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose",
+    "name": "Hydroxypropyl Methylcellulose",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_root_2",
+    "name": "Hydroxypropyl Methylcellulose (Root)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_glucoside_root_2",
+    "name": "Coco-Glucoside (Root)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_nf",
+    "name": "Octisalate (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_leaf",
+    "name": "Benzoic Acid (Leaf)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "dicaprylyl_carbonate_nf",
+    "name": "Dicaprylyl Carbonate (NF)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "decyl_glucoside_polymer",
+    "name": "Decyl Glucoside (Polymer)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_palmitate_extract",
+    "name": "Ethylhexyl Palmitate (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "pha_polyhydroxy_acid_2",
+    "name": "PHA (Polyhydroxy Acid)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "calendula_officinalis_flower_extract_leaf",
+    "name": "Calendula Officinalis Flower Extract (Leaf)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract_polymer",
+    "name": "Rosmarinus Officinalis Leaf Extract (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_nf",
+    "name": "Tinosorb M (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "isododecane_root",
+    "name": "Isododecane (Root)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "beta_glucan_polymer_2",
+    "name": "Beta-Glucan (Polymer)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_3",
+    "name": "Homosalate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_methyl_isethionate_nf",
+    "name": "Sodium Lauroyl Methyl Isethionate (NF)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "glycyrrhiza_glabra_root_extract_root",
+    "name": "Glycyrrhiza Glabra Root Extract (Root)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "urea_root",
+    "name": "Urea (Root)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_usp",
+    "name": "Sodium Polyacrylate (USP)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate_root",
+    "name": "Sodium Cocoyl Isethionate (Root)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate_extract",
+    "name": "Sodium Cocoyl Isethionate (Extract)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "calendula_officinalis_flower_extract_extract",
+    "name": "Calendula Officinalis Flower Extract (Extract)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_usp_2",
+    "name": "Octisalate (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_ferment",
+    "name": "Hamamelis Virginiana Leaf Water (Ferment)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_nf_2",
+    "name": "Octisalate (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dicaprylyl_carbonate_ferment_2",
+    "name": "Dicaprylyl Carbonate (Ferment)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylyl_glycol_ferment",
+    "name": "Caprylyl Glycol (Ferment)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "cellulose_gum_root",
+    "name": "Cellulose Gum (Root)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydrogenated_polyisobutene_nf",
+    "name": "Hydrogenated Polyisobutene (NF)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "arbutin",
+    "name": "Arbutin",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "neopentyl_glycol_diheptanoate",
+    "name": "Neopentyl Glycol Diheptanoate",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydrogenated_polyisobutene",
+    "name": "Hydrogenated Polyisobutene",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_nf_2",
+    "name": "Tinosorb M (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate_polymer",
+    "name": "Disodium Laureth Sulfosuccinate (Polymer)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "pha_polyhydroxy_acid_root",
+    "name": "PHA (Polyhydroxy Acid) (Root)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate_nf",
+    "name": "Disodium Laureth Sulfosuccinate (NF)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "triethylhexanoin_usp",
+    "name": "Triethylhexanoin (USP)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sorbic_acid",
+    "name": "Sorbic Acid",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "propylene_glycol_2",
+    "name": "Propylene Glycol",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_root",
+    "name": "Hamamelis Virginiana Leaf Water (Root)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract_root",
+    "name": "Rosmarinus Officinalis Leaf Extract (Root)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sorbic_acid_polymer",
+    "name": "Sorbic Acid (Polymer)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "cellulose_gum",
+    "name": "Cellulose Gum",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_3",
+    "name": "Octisalate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_methyl_isethionate_polymer",
+    "name": "Sodium Lauroyl Methyl Isethionate (Polymer)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Yüksek",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok kuru",
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "glycyrrhiza_glabra_root_extract_nf",
+    "name": "Glycyrrhiza Glabra Root Extract (NF)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydrogenated_polyisobutene_2",
+    "name": "Hydrogenated Polyisobutene",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract_polymer_2",
+    "name": "Rosmarinus Officinalis Leaf Extract (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_polymer",
+    "name": "Hamamelis Virginiana Leaf Water (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Bitkisel",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_root",
+    "name": "Octisalate (Root)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "glycyrrhiza_glabra_root_extract",
+    "name": "Glycyrrhiza Glabra Root Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sorbic_acid_2",
+    "name": "Sorbic Acid",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok kuru",
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "glycyrrhiza_glabra_root_extract_ferment",
+    "name": "Glycyrrhiza Glabra Root Extract (Ferment)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dehydroacetic_acid_2",
+    "name": "Dehydroacetic Acid",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok yağlı",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_root_2",
+    "name": "Hamamelis Virginiana Leaf Water (Root)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_root_2",
+    "name": "Benzoic Acid (Root)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "acrylates_c10_30_alkyl_acrylate_crosspolymer_root",
+    "name": "Acrylates/C10-30 Alkyl Acrylate Crosspolymer (Root)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ascorbyl_glucoside",
+    "name": "Ascorbyl Glucoside",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid",
+    "name": "Benzoic Acid",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "isopropyl_palmitate",
+    "name": "Isopropyl Palmitate",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_nf",
+    "name": "Sodium Polyacrylate (NF)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_root",
+    "name": "Benzyl Alcohol (Root)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tranexamic_acid_polymer",
+    "name": "Tranexamic Acid (Polymer)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_methoxycinnamate_nf",
+    "name": "Ethylhexyl Methoxycinnamate (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "chlorphenesin_nf",
+    "name": "Chlorphenesin (NF)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "glycyrrhiza_glabra_root_extract_2",
+    "name": "Glycyrrhiza Glabra Root Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_ferment",
+    "name": "Benzoic Acid (Ferment)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "calendula_officinalis_flower_extract_polymer",
+    "name": "Calendula Officinalis Flower Extract (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ascorbic_acid_extract_2",
+    "name": "Ascorbic Acid (Extract)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s_leaf",
+    "name": "Tinosorb S (Leaf)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok kuru",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "propylene_glycol_ferment",
+    "name": "Propylene Glycol (Ferment)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 5,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "chlorphenesin_root",
+    "name": "Chlorphenesin (Root)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dicaprylyl_carbonate",
+    "name": "Dicaprylyl Carbonate",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "calendula_officinalis_flower_extract",
+    "name": "Calendula Officinalis Flower Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_leaf_2",
+    "name": "Benzoic Acid (Leaf)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_leaf",
+    "name": "Tinosorb M (Leaf)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok kuru",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "decyl_glucoside_usp",
+    "name": "Decyl Glucoside (USP)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chamomilla_recutita_flower_extract_leaf",
+    "name": "Chamomilla Recutita Flower Extract (Leaf)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "cellulose_gum_nf",
+    "name": "Cellulose Gum (NF)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "isohexadecane",
+    "name": "Isohexadecane",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_2",
+    "name": "Benzyl Alcohol",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "calendula_officinalis_flower_extract_2",
+    "name": "Calendula Officinalis Flower Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "beta_glucan_usp",
+    "name": "Beta-Glucan (USP)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_nf_2",
+    "name": "Sodium Polyacrylate (NF)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chamomilla_recutita_flower_extract_root",
+    "name": "Chamomilla Recutita Flower Extract (Root)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "arbutin_polymer",
+    "name": "Arbutin (Polymer)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "zinc_pca_nf",
+    "name": "Zinc PCA (NF)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s_2",
+    "name": "Tinosorb S",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate_nf",
+    "name": "Sodium Cocoyl Isethionate (NF)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "kojic_acid",
+    "name": "Kojic Acid",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chamomilla_recutita_flower_extract_polymer",
+    "name": "Chamomilla Recutita Flower Extract (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_polymer",
+    "name": "Octisalate (Polymer)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water",
+    "name": "Rosa Damascena Flower Water",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_3",
+    "name": "Benzyl Alcohol",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sorbic_acid_leaf",
+    "name": "Sorbic Acid (Leaf)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate_ferment",
+    "name": "Sodium Cocoyl Isethionate (Ferment)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_extract",
+    "name": "Homosalate (Extract)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s_ferment",
+    "name": "Tinosorb S (Ferment)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "isopropyl_palmitate_extract",
+    "name": "Isopropyl Palmitate (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract_polymer_3",
+    "name": "Rosmarinus Officinalis Leaf Extract (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chlorphenesin_usp",
+    "name": "Chlorphenesin (USP)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_usp_2",
+    "name": "Benzoic Acid (USP)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "glycyrrhiza_glabra_root_extract_3",
+    "name": "Glycyrrhiza Glabra Root Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_4",
+    "name": "Benzyl Alcohol",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_root",
+    "name": "Sodium Polyacrylate (Root)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_ferment_3",
+    "name": "Rosa Damascena Flower Water (Ferment)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_3",
+    "name": "Sodium Polyacrylate",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate_nf_2",
+    "name": "Disodium Laureth Sulfosuccinate (NF)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "pha_polyhydroxy_acid_usp_2",
+    "name": "PHA (Polyhydroxy Acid) (USP)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_methyl_isethionate_extract",
+    "name": "Sodium Lauroyl Methyl Isethionate (Extract)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "neopentyl_glycol_diheptanoate_root",
+    "name": "Neopentyl Glycol Diheptanoate (Root)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "cellulose_gum_polymer_2",
+    "name": "Cellulose Gum (Polymer)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "triethylhexanoin_extract",
+    "name": "Triethylhexanoin (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_usp",
+    "name": "Guar Hydroxypropyltrimonium Chloride (USP)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_usp",
+    "name": "Tinosorb M (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_3",
+    "name": "Tinosorb M",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_nf",
+    "name": "Guar Hydroxypropyltrimonium Chloride (NF)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_caprylate_caprate",
+    "name": "Coco-Caprylate/Caprate",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylhydroxamic_acid_polymer",
+    "name": "Caprylhydroxamic Acid (Polymer)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "propylene_glycol_leaf",
+    "name": "Propylene Glycol (Leaf)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chamomilla_recutita_flower_extract_root_2",
+    "name": "Chamomilla Recutita Flower Extract (Root)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "decyl_glucoside_root",
+    "name": "Decyl Glucoside (Root)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_5",
+    "name": "Benzyl Alcohol",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "gluconolactone",
+    "name": "Gluconolactone",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "butylene_glycol_extract",
+    "name": "Butylene Glycol (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "propylene_glycol_nf_2",
+    "name": "Propylene Glycol (NF)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_sarcosinate_extract_3",
+    "name": "Sodium Lauroyl Sarcosinate (Extract)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate_2",
+    "name": "Disodium Laureth Sulfosuccinate",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_usp_2",
+    "name": "Tinosorb M (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "gluconolactone_2",
+    "name": "Gluconolactone",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sorbic_acid_nf",
+    "name": "Sorbic Acid (NF)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "butylene_glycol_2",
+    "name": "Butylene Glycol",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dicaprylyl_carbonate_extract",
+    "name": "Dicaprylyl Carbonate (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "decyl_glucoside_polymer_2",
+    "name": "Decyl Glucoside (Polymer)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Yüksek",
+    "functions": "Temizleyici",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sorbic_acid_leaf_2",
+    "name": "Sorbic Acid (Leaf)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "chlorphenesin_polymer",
+    "name": "Chlorphenesin (Polymer)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "benzoic_acid_extract_2",
+    "name": "Benzoic Acid (Extract)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_ferment",
+    "name": "Sodium Polyacrylate (Ferment)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_polymer",
+    "name": "Tinosorb M (Polymer)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_nf_2",
+    "name": "Rosa Damascena Flower Water (NF)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_extract_2",
+    "name": "Homosalate (Extract)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_leaf",
+    "name": "Guar Hydroxypropyltrimonium Chloride (Leaf)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_2",
+    "name": "Rosa Damascena Flower Water",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "gluconolactone_root",
+    "name": "Gluconolactone (Root)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dehydroacetic_acid_extract",
+    "name": "Dehydroacetic Acid (Extract)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_polymer",
+    "name": "Hydroxypropyl Methylcellulose (Polymer)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "isododecane_root_2",
+    "name": "Isododecane (Root)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "beta_glucan_root",
+    "name": "Beta-Glucan (Root)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "isohexadecane_leaf",
+    "name": "Isohexadecane (Leaf)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_polymer",
+    "name": "Rosa Damascena Flower Water (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "pentylene_glycol_leaf",
+    "name": "Pentylene Glycol (Leaf)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 5,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylyl_glycol_usp",
+    "name": "Caprylyl Glycol (USP)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_nf",
+    "name": "Hydroxypropyl Methylcellulose (NF)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylyl_glycol_root_2",
+    "name": "Caprylyl Glycol (Root)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_leaf",
+    "name": "Hydroxypropyl Methylcellulose (Leaf)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_ferment",
+    "name": "Guar Hydroxypropyltrimonium Chloride (Ferment)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_4",
+    "name": "Homosalate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Çok kuru"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "neopentyl_glycol_diheptanoate_extract",
+    "name": "Neopentyl Glycol Diheptanoate (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate_leaf_2",
+    "name": "Disodium Laureth Sulfosuccinate (Leaf)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylhydroxamic_acid_polymer_2",
+    "name": "Caprylhydroxamic Acid (Polymer)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_methoxycinnamate_usp_3",
+    "name": "Ethylhexyl Methoxycinnamate (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract_usp",
+    "name": "Rosmarinus Officinalis Leaf Extract (USP)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_methyl_isethionate",
+    "name": "Sodium Lauroyl Methyl Isethionate",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sorbic_acid_3",
+    "name": "Sorbic Acid",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_polymer_2",
+    "name": "Hydroxypropyl Methylcellulose (Polymer)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_methoxycinnamate_2",
+    "name": "Ethylhexyl Methoxycinnamate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok kuru",
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_polymer_2",
+    "name": "Hamamelis Virginiana Leaf Water (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylhydroxamic_acid_root_2",
+    "name": "Caprylhydroxamic Acid (Root)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dehydroacetic_acid_polymer",
+    "name": "Dehydroacetic Acid (Polymer)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_root_2",
+    "name": "Benzyl Alcohol (Root)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chlorphenesin_2",
+    "name": "Chlorphenesin",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_methoxycinnamate_root",
+    "name": "Ethylhexyl Methoxycinnamate (Root)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Karma",
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "disodium_laureth_sulfosuccinate_ferment",
+    "name": "Disodium Laureth Sulfosuccinate (Ferment)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "triethylhexanoin_extract_2",
+    "name": "Triethylhexanoin (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 5,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_palmitate",
+    "name": "Ethylhexyl Palmitate",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "glycyrrhiza_glabra_root_extract_root_2",
+    "name": "Glycyrrhiza Glabra Root Extract (Root)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dehydroacetic_acid_nf",
+    "name": "Dehydroacetic Acid (NF)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "triethylhexanoin_extract_3",
+    "name": "Triethylhexanoin (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "ethylhexyl_palmitate_leaf",
+    "name": "Ethylhexyl Palmitate (Leaf)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_polymer_2",
+    "name": "Rosa Damascena Flower Water (Polymer)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "acrylates_c10_30_alkyl_acrylate_crosspolymer_nf",
+    "name": "Acrylates/C10-30 Alkyl Acrylate Crosspolymer (NF)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosa_damascena_flower_water_leaf",
+    "name": "Rosa Damascena Flower Water (Leaf)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "isododecane_ferment",
+    "name": "Isododecane (Ferment)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_5",
+    "name": "Homosalate",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hamamelis_virginiana_leaf_water_2",
+    "name": "Hamamelis Virginiana Leaf Water",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Orta",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylhydroxamic_acid_usp",
+    "name": "Caprylhydroxamic Acid (USP)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxypropyl_methylcellulose_2",
+    "name": "Hydroxypropyl Methylcellulose",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chlorphenesin_ferment",
+    "name": "Chlorphenesin (Ferment)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_caprylate_caprate_extract",
+    "name": "Coco-Caprylate/Caprate (Extract)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_glucoside_polymer",
+    "name": "Coco-Glucoside (Polymer)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_4",
+    "name": "Tinosorb M",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "beta_glucan_nf",
+    "name": "Beta-Glucan (NF)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_usp_2",
+    "name": "Guar Hydroxypropyltrimonium Chloride (USP)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s_usp",
+    "name": "Tinosorb S (USP)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "copper_pca_nf",
+    "name": "Copper PCA (NF)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "magnesium_ascorbyl_phosphate_usp",
+    "name": "Magnesium Ascorbyl Phosphate (USP)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "coco_caprylate_caprate_root",
+    "name": "Coco-Caprylate/Caprate (Root)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "decyl_glucoside_ferment_2",
+    "name": "Decyl Glucoside (Ferment)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Yüksek",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "madecassoside_2",
+    "name": "Madecassoside",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Kuru",
+      "Karma"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s_extract",
+    "name": "Tinosorb S (Extract)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas",
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_4",
+    "name": "Sodium Polyacrylate",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "isohexadecane_2",
+    "name": "Isohexadecane",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 4,
+    "incompatibleSkinTypes": [
+      "Akneye eğilimli",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract_2",
+    "name": "Rosmarinus Officinalis Leaf Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_s_3",
+    "name": "Tinosorb S",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylyl_glycol_nf",
+    "name": "Caprylyl Glycol (NF)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_polymer_3",
+    "name": "Guar Hydroxypropyltrimonium Chloride (Polymer)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "triethylhexanoin_nf",
+    "name": "Triethylhexanoin (NF)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "caprylyl_glycol_usp_2",
+    "name": "Caprylyl Glycol (USP)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_root_2",
+    "name": "Tinosorb M (Root)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "beta_glucan_ferment",
+    "name": "Beta-Glucan (Ferment)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_lauroyl_sarcosinate_usp_2",
+    "name": "Sodium Lauroyl Sarcosinate (USP)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Orta",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "guar_hydroxypropyltrimonium_chloride_leaf_2",
+    "name": "Guar Hydroxypropyltrimonium Chloride (Leaf)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "chamomilla_recutita_flower_extract_ferment",
+    "name": "Chamomilla Recutita Flower Extract (Ferment)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok yağlı",
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "pha_polyhydroxy_acid_3",
+    "name": "PHA (Polyhydroxy Acid)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Orta",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "sorbic_acid_4",
+    "name": "Sorbic Acid",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "cellulose_gum_2",
+    "name": "Cellulose Gum",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "rosmarinus_officinalis_leaf_extract_3",
+    "name": "Rosmarinus Officinalis Leaf Extract",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_root_2",
+    "name": "Octisalate (Root)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Yüksek",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Hassas",
+      "Çok yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "dicaprylyl_carbonate_root",
+    "name": "Dicaprylyl Carbonate (Root)",
+    "description": "Yumuşatıcı/emolyan; ciltte kayganlık ve konfor sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "Emolyan",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "hydroxyethylcellulose_usp",
+    "name": "Hydroxyethylcellulose (USP)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dehydroacetic_acid_ferment",
+    "name": "Dehydroacetic Acid (Ferment)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [
+      "Yağlı"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "octisalate_nf_3",
+    "name": "Octisalate (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 2,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "homosalate_nf",
+    "name": "Homosalate (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Düşük",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "zinc_pca_root",
+    "name": "Zinc PCA (Root)",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Yüksek",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [
+      "Çok hassas",
+      "Alerjik"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_polyacrylate_root_2",
+    "name": "Sodium Polyacrylate (Root)",
+    "description": "Kıvam verici/kalınlaştırıcı; formül dokusunu ayarlar.",
+    "riskLevel": "Düşük",
+    "functions": "Yapılandırıcı",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "tinosorb_m_nf_3",
+    "name": "Tinosorb M (NF)",
+    "description": "UV filtresi; güneş ışınlarına karşı korumaya katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "UV Filtresi",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [
+      "Hassas"
+    ],
+    "isDatabase": true
+  },
+  {
+    "id": "sodium_cocoyl_isethionate_extract_2",
+    "name": "Sodium Cocoyl Isethionate (Extract)",
+    "description": "Yüzey aktif; temizleme köpürmesi ve yağ çözünürlüğüne yardımcı olur.",
+    "riskLevel": "Düşük",
+    "functions": "Temizleyici",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "dehydroacetic_acid_root",
+    "name": "Dehydroacetic Acid (Root)",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "benzyl_alcohol_6",
+    "name": "Benzyl Alcohol",
+    "description": "Koruyucu sistem bileşeni; ürünün mikrobiyal stabilitesine katkı sağlar.",
+    "riskLevel": "Orta",
+    "functions": "Koruyucu",
+    "comedogenicRating": 3,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "kojic_acid_2",
+    "name": "Kojic Acid",
+    "description": "Aktif bileşen; hedeflenen cilt ihtiyacına yönelik kullanılabilir.",
+    "riskLevel": "Düşük",
+    "functions": "Aktif",
+    "comedogenicRating": 0,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  },
+  {
+    "id": "glycyrrhiza_glabra_root_extract_extract",
+    "name": "Glycyrrhiza Glabra Root Extract (Extract)",
+    "description": "Bitki özü/yağı; antioksidan/yatıştırıcı özellikler gösterebilir.",
+    "riskLevel": "Düşük",
+    "functions": "Bitkisel",
+    "comedogenicRating": 1,
+    "incompatibleSkinTypes": [],
+    "isDatabase": true
+  }
+]

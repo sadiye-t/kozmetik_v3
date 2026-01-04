@@ -1,0 +1,46 @@
+name: kozmetik_v3
+description: Kozmetik içerik analiz uygulaması (kayıt/giriş + barkod + OCR).
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  provider: ^6.1.2
+
+  # Local storage (kayıt/giriş bilgileri + profil)
+  shared_preferences: ^2.2.3
+
+  # HTTP (Open Beauty Facts)
+  http: ^1.2.2
+
+  # Barcode scanner
+  mobile_scanner: ^5.2.3
+
+  # Image picker
+  image_picker: ^1.1.2
+
+  # OCR (ML Kit)
+  google_mlkit_text_recognition: ^0.13.1
+
+  # Web araması açmak için
+  url_launcher: ^6.3.0
+
+  # UI font (istersen kaldırabilirsin)
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/ingredients.json
